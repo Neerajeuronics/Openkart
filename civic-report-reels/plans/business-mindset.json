@@ -1,0 +1,14 @@
+{
+  "headline": [{"text": "3 Rules To"}, {"text": "Win In Business", "highlight": true}, {"text": "🚀"}],
+  "credit": "Clips: original creators",
+  "brandName": "Civic Report",
+  "captions": false,
+  "highlight": ["execution", "marathon", "success", "advantage", "win", "crore", "game"],
+  "segments": [
+    {"clip": "c10", "from": 0.9, "to": 5.4},
+    {"clip": "c10", "from": 13.3, "to": 17.2},
+    {"clip": "c03", "from": 0.0, "to": 2.9},
+    {"clip": "c03", "from": 7.8, "to": 18.9},
+    {"clip": "c01", "from": 0.0, "to": 10.7}
+  ]
+}

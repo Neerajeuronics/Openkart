@@ -1,0 +1,303 @@
+{
+ "id": "c03",
+ "language": "hi",
+ "duration": 18.88,
+ "text": "Business print nahin ho ka. Business ek marathon hai. Hardin perfect nahin ho ka. Kabhi fast crore karoge aur kabhi surf survival ho. Lekin ek rule yaad rakhna. Jab tak run kar sakto, tab tak run karo. Run nahin kar sakto, to walk karo. Aur walk bhi nahin kar sakto, to crawl karo. Lekin apna game nahin chorna hai.",
+ "words": [
+  {
+   "text": "Business",
+   "start": 0.0,
+   "end": 0.48
+  },
+  {
+   "text": "print",
+   "start": 0.48,
+   "end": 0.98
+  },
+  {
+   "text": "nahin",
+   "start": 0.98,
+   "end": 1.32
+  },
+  {
+   "text": "ho",
+   "start": 1.32,
+   "end": 1.4
+  },
+  {
+   "text": "ka.",
+   "start": 1.4,
+   "end": 1.58
+  },
+  {
+   "text": "Business",
+   "start": 1.7,
+   "end": 1.9
+  },
+  {
+   "text": "ek",
+   "start": 1.9,
+   "end": 2.12
+  },
+  {
+   "text": "marathon",
+   "start": 2.12,
+   "end": 2.52
+  },
+  {
+   "text": "hai.",
+   "start": 2.52,
+   "end": 2.9
+  },
+  {
+   "text": "Hardin",
+   "start": 3.14,
+   "end": 3.54
+  },
+  {
+   "text": "perfect",
+   "start": 3.54,
+   "end": 3.88
+  },
+  {
+   "text": "nahin",
+   "start": 3.88,
+   "end": 4.28
+  },
+  {
+   "text": "ho",
+   "start": 4.28,
+   "end": 4.38
+  },
+  {
+   "text": "ka.",
+   "start": 4.38,
+   "end": 4.54
+  },
+  {
+   "text": "Kabhi",
+   "start": 4.76,
+   "end": 4.96
+  },
+  {
+   "text": "fast",
+   "start": 4.96,
+   "end": 5.36
+  },
+  {
+   "text": "crore",
+   "start": 5.36,
+   "end": 5.74
+  },
+  {
+   "text": "karoge",
+   "start": 5.74,
+   "end": 6.08
+  },
+  {
+   "text": "aur",
+   "start": 6.08,
+   "end": 6.42
+  },
+  {
+   "text": "kabhi",
+   "start": 6.42,
+   "end": 6.74
+  },
+  {
+   "text": "surf",
+   "start": 6.74,
+   "end": 6.98
+  },
+  {
+   "text": "survival",
+   "start": 6.98,
+   "end": 7.4
+  },
+  {
+   "text": "ho.",
+   "start": 7.4,
+   "end": 7.66
+  },
+  {
+   "text": "Lekin",
+   "start": 7.84,
+   "end": 8.18
+  },
+  {
+   "text": "ek",
+   "start": 8.18,
+   "end": 8.48
+  },
+  {
+   "text": "rule",
+   "start": 8.48,
+   "end": 8.74
+  },
+  {
+   "text": "yaad",
+   "start": 8.74,
+   "end": 9.1
+  },
+  {
+   "text": "rakhna.",
+   "start": 9.1,
+   "end": 9.44
+  },
+  {
+   "text": "Jab",
+   "start": 9.64,
+   "end": 9.92
+  },
+  {
+   "text": "tak",
+   "start": 9.92,
+   "end": 10.04
+  },
+  {
+   "text": "run",
+   "start": 10.04,
+   "end": 10.34
+  },
+  {
+   "text": "kar",
+   "start": 10.34,
+   "end": 10.52
+  },
+  {
+   "text": "sakto,",
+   "start": 10.52,
+   "end": 10.94
+  },
+  {
+   "text": "tab",
+   "start": 11.02,
+   "end": 11.08
+  },
+  {
+   "text": "tak",
+   "start": 11.08,
+   "end": 11.32
+  },
+  {
+   "text": "run",
+   "start": 11.32,
+   "end": 11.54
+  },
+  {
+   "text": "karo.",
+   "start": 11.54,
+   "end": 11.9
+  },
+  {
+   "text": "Run",
+   "start": 12.04,
+   "end": 12.26
+  },
+  {
+   "text": "nahin",
+   "start": 12.26,
+   "end": 12.62
+  },
+  {
+   "text": "kar",
+   "start": 12.62,
+   "end": 12.74
+  },
+  {
+   "text": "sakto,",
+   "start": 12.74,
+   "end": 13.18
+  },
+  {
+   "text": "to",
+   "start": 13.34,
+   "end": 13.54
+  },
+  {
+   "text": "walk",
+   "start": 13.54,
+   "end": 13.84
+  },
+  {
+   "text": "karo.",
+   "start": 13.84,
+   "end": 14.26
+  },
+  {
+   "text": "Aur",
+   "start": 14.34,
+   "end": 14.46
+  },
+  {
+   "text": "walk",
+   "start": 14.46,
+   "end": 14.76
+  },
+  {
+   "text": "bhi",
+   "start": 14.76,
+   "end": 14.96
+  },
+  {
+   "text": "nahin",
+   "start": 14.96,
+   "end": 15.18
+  },
+  {
+   "text": "kar",
+   "start": 15.18,
+   "end": 15.3
+  },
+  {
+   "text": "sakto,",
+   "start": 15.3,
+   "end": 15.72
+  },
+  {
+   "text": "to",
+   "start": 15.78,
+   "end": 15.86
+  },
+  {
+   "text": "crawl",
+   "start": 15.86,
+   "end": 16.18
+  },
+  {
+   "text": "karo.",
+   "start": 16.18,
+   "end": 16.62
+  },
+  {
+   "text": "Lekin",
+   "start": 16.66,
+   "end": 17.18
+  },
+  {
+   "text": "apna",
+   "start": 17.18,
+   "end": 17.54
+  },
+  {
+   "text": "game",
+   "start": 17.54,
+   "end": 17.94
+  },
+  {
+   "text": "nahin",
+   "start": 17.94,
+   "end": 18.22
+  },
+  {
+   "text": "chorna",
+   "start": 18.22,
+   "end": 18.58
+  },
+  {
+   "text": "hai.",
+   "start": 18.58,
+   "end": 18.7
+  }
+ ]
+}

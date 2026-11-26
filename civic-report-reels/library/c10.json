@@ -1,0 +1,293 @@
+{
+ "id": "c10",
+ "language": "hi",
+ "duration": 17.16,
+ "text": "At the end of the day na, business ko succede karne ke liye sabse zaroori cheez na idea nahi hota hai, execution. Kyuki ideas karolo log ke baas hai, India itna competitive hai, 140 karolo log itna intelligent hai. Idea sab ke baas hai. And the difference between a good business and bad business is just execution.",
+ "words": [
+  {
+   "text": "At",
+   "start": 0.0,
+   "end": 0.12
+  },
+  {
+   "text": "the",
+   "start": 0.12,
+   "end": 0.24
+  },
+  {
+   "text": "end",
+   "start": 0.24,
+   "end": 0.4
+  },
+  {
+   "text": "of",
+   "start": 0.4,
+   "end": 0.5
+  },
+  {
+   "text": "the",
+   "start": 0.5,
+   "end": 0.62
+  },
+  {
+   "text": "day",
+   "start": 0.62,
+   "end": 0.74
+  },
+  {
+   "text": "na,",
+   "start": 0.74,
+   "end": 0.84
+  },
+  {
+   "text": "business",
+   "start": 0.96,
+   "end": 1.14
+  },
+  {
+   "text": "ko",
+   "start": 1.14,
+   "end": 1.46
+  },
+  {
+   "text": "succede",
+   "start": 1.46,
+   "end": 1.98
+  },
+  {
+   "text": "karne",
+   "start": 1.98,
+   "end": 2.32
+  },
+  {
+   "text": "ke",
+   "start": 2.32,
+   "end": 2.4
+  },
+  {
+   "text": "liye",
+   "start": 2.4,
+   "end": 2.56
+  },
+  {
+   "text": "sabse",
+   "start": 2.56,
+   "end": 3.16
+  },
+  {
+   "text": "zaroori",
+   "start": 3.16,
+   "end": 3.6
+  },
+  {
+   "text": "cheez",
+   "start": 3.6,
+   "end": 3.84
+  },
+  {
+   "text": "na",
+   "start": 3.84,
+   "end": 3.94
+  },
+  {
+   "text": "idea",
+   "start": 3.94,
+   "end": 4.18
+  },
+  {
+   "text": "nahi",
+   "start": 4.18,
+   "end": 4.44
+  },
+  {
+   "text": "hota",
+   "start": 4.44,
+   "end": 4.54
+  },
+  {
+   "text": "hai,",
+   "start": 4.54,
+   "end": 4.58
+  },
+  {
+   "text": "execution.",
+   "start": 4.66,
+   "end": 4.94
+  },
+  {
+   "text": "Kyuki",
+   "start": 5.56,
+   "end": 6.04
+  },
+  {
+   "text": "ideas",
+   "start": 6.04,
+   "end": 6.52
+  },
+  {
+   "text": "karolo",
+   "start": 6.52,
+   "end": 7.2
+  },
+  {
+   "text": "log",
+   "start": 7.2,
+   "end": 7.34
+  },
+  {
+   "text": "ke",
+   "start": 7.34,
+   "end": 7.48
+  },
+  {
+   "text": "baas",
+   "start": 7.48,
+   "end": 7.7
+  },
+  {
+   "text": "hai,",
+   "start": 7.7,
+   "end": 7.74
+  },
+  {
+   "text": "India",
+   "start": 7.82,
+   "end": 8.02
+  },
+  {
+   "text": "itna",
+   "start": 8.02,
+   "end": 8.24
+  },
+  {
+   "text": "competitive",
+   "start": 8.24,
+   "end": 8.76
+  },
+  {
+   "text": "hai,",
+   "start": 8.76,
+   "end": 9.02
+  },
+  {
+   "text": "140",
+   "start": 9.04,
+   "end": 9.28
+  },
+  {
+   "text": "karolo",
+   "start": 9.28,
+   "end": 10.12
+  },
+  {
+   "text": "log",
+   "start": 10.12,
+   "end": 10.32
+  },
+  {
+   "text": "itna",
+   "start": 10.32,
+   "end": 10.6
+  },
+  {
+   "text": "intelligent",
+   "start": 10.6,
+   "end": 11.12
+  },
+  {
+   "text": "hai.",
+   "start": 11.12,
+   "end": 11.4
+  },
+  {
+   "text": "Idea",
+   "start": 11.7,
+   "end": 11.98
+  },
+  {
+   "text": "sab",
+   "start": 11.98,
+   "end": 12.28
+  },
+  {
+   "text": "ke",
+   "start": 12.28,
+   "end": 12.56
+  },
+  {
+   "text": "baas",
+   "start": 12.56,
+   "end": 12.88
+  },
+  {
+   "text": "hai.",
+   "start": 12.88,
+   "end": 12.96
+  },
+  {
+   "text": "And",
+   "start": 13.42,
+   "end": 13.9
+  },
+  {
+   "text": "the",
+   "start": 13.9,
+   "end": 14.34
+  },
+  {
+   "text": "difference",
+   "start": 14.34,
+   "end": 14.74
+  },
+  {
+   "text": "between",
+   "start": 14.74,
+   "end": 15.04
+  },
+  {
+   "text": "a",
+   "start": 15.04,
+   "end": 15.2
+  },
+  {
+   "text": "good",
+   "start": 15.2,
+   "end": 15.34
+  },
+  {
+   "text": "business",
+   "start": 15.34,
+   "end": 15.58
+  },
+  {
+   "text": "and",
+   "start": 15.58,
+   "end": 15.78
+  },
+  {
+   "text": "bad",
+   "start": 15.78,
+   "end": 15.96
+  },
+  {
+   "text": "business",
+   "start": 15.96,
+   "end": 16.2
+  },
+  {
+   "text": "is",
+   "start": 16.2,
+   "end": 16.38
+  },
+  {
+   "text": "just",
+   "start": 16.38,
+   "end": 16.66
+  },
+  {
+   "text": "execution.",
+   "start": 16.66,
+   "end": 17.0
+  }
+ ]
+}

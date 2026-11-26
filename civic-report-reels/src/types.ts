@@ -2,11 +2,23 @@ export type HeadlineSegment = { text: string; highlight?: boolean };
 
 export type CaptionWord = {
   text: string;
-  /** seconds from clip start */
+  /** seconds on the OUTPUT timeline */
   start: number;
   end: number;
-  /** render this word in the highlight colour */
   highlight?: boolean;
+};
+
+/** One cut of source footage, played back-to-back. Times in seconds. */
+export type Crop = { w: number; h: number; x: number; y: number };
+export type ClipSegment = {
+  src: string;
+  from: number;
+  to: number;
+  /** source pixel size, needed together with crop */
+  srcW?: number;
+  srcH?: number;
+  /** real picture area inside baked-in black bars */
+  crop?: Crop;
 };
 
 export type Overlay =
@@ -15,13 +27,11 @@ export type Overlay =
   | { type: "money"; start: number; end: number };
 
 export type ReelProps = {
-  /** file inside public/, e.g. "clips/sample.mp4"; empty string = placeholder background */
-  videoSrc: string;
-  durationSeconds: number;
+  segments: ClipSegment[];
   headline: HeadlineSegment[];
   words: CaptionWord[];
   overlays: Overlay[];
-  /** e.g. "@podcastwithme3" */
+  /** e.g. "@visionaryindians" - shown as credit under the card */
   credit: string;
   brandName: string;
   accentColor: string;

@@ -21,11 +21,11 @@ const Stat: React.FC<{ label?: string; value: string; color: string }> = ({
     <div
       style={{
         position: "absolute",
-        top: 560,
+        top: 640,
         left: 0,
         right: 0,
         textAlign: "center",
-        fontFamily: "Arial Black, Impact, sans-serif",
+        fontFamily: "Montserrat, Arial, sans-serif", fontWeight: 800,
         transform: `scale(${s})`,
       }}
     >
@@ -49,13 +49,13 @@ const Badge: React.FC<{ text: string; color: string }> = ({ text, color }) => {
     <div
       style={{
         position: "absolute",
-        top: 700,
+        top: 560,
         right: 60,
         padding: "18px 36px",
         borderRadius: 24,
         background: color,
         color: "#000",
-        fontFamily: "Arial Black, Impact, sans-serif",
+        fontFamily: "Montserrat, Arial, sans-serif", fontWeight: 800,
         fontSize: 54,
         textTransform: "uppercase",
         transform: `translateX(${interpolate(s, [0, 1], [300, 0])}px)`,

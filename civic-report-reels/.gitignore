@@ -9,3 +9,5 @@ out
 # source footage stays local
 public/clips/*
 !public/clips/.gitkeep
+public/clips/*.mp4
+out

@@ -1,0 +1,87 @@
+{
+ "segments": [
+  {
+   "src": "clips/c10.mp4",
+   "from": 0.9,
+   "to": 5.4,
+   "srcW": 720,
+   "srcH": 1280,
+   "crop": {
+    "w": 720,
+    "h": 804,
+    "x": 0,
+    "y": 196
+   }
+  },
+  {
+   "src": "clips/c10.mp4",
+   "from": 13.3,
+   "to": 17.2,
+   "srcW": 720,
+   "srcH": 1280,
+   "crop": {
+    "w": 720,
+    "h": 802,
+    "x": 0,
+    "y": 198
+   }
+  },
+  {
+   "src": "clips/c03.mp4",
+   "from": 0.0,
+   "to": 2.9,
+   "srcW": 720,
+   "srcH": 1280,
+   "crop": {
+    "w": 720,
+    "h": 710,
+    "x": 0,
+    "y": 264
+   }
+  },
+  {
+   "src": "clips/c03.mp4",
+   "from": 7.8,
+   "to": 18.9,
+   "srcW": 720,
+   "srcH": 1280,
+   "crop": {
+    "w": 720,
+    "h": 710,
+    "x": 0,
+    "y": 264
+   }
+  },
+  {
+   "src": "clips/c01.mp4",
+   "from": 0.0,
+   "to": 10.7,
+   "srcW": 720,
+   "srcH": 1280,
+   "crop": {
+    "w": 642,
+    "h": 456,
+    "x": 78,
+    "y": 424
+   }
+  }
+ ],
+ "headline": [
+  {
+   "text": "3 Rules To"
+  },
+  {
+   "text": "Win In Business",
+   "highlight": true
+  },
+  {
+   "text": "🚀"
+  }
+ ],
+ "words": [],
+ "overlays": [],
+ "credit": "Clips: original creators",
+ "brandName": "Civic Report",
+ "accentColor": "#ffd400",
+ "highlightColor": "#ffd400"
+}

@@ -12,19 +12,17 @@ export const Headline: React.FC<{
     <div
       style={{
         position: "absolute",
-        top: 150,
-        left: 50,
-        right: 50,
+        top: 300,
+        left: 70,
+        right: 70,
         textAlign: "center",
-        fontFamily: "Arial Black, Impact, sans-serif",
-        fontWeight: 900,
-        fontSize: 72,
-        lineHeight: 1.1,
-        textTransform: "uppercase",
+        fontFamily: "Montserrat, Arial, sans-serif",
+        fontWeight: 800,
+        fontSize: 56,
+        lineHeight: 1.2,
         color: "#fff",
-        opacity: interpolate(s, [0, 1], [0, 1]),
-        transform: `translateY(${interpolate(s, [0, 1], [-30, 0])}px)`,
-        textShadow: "0 4px 12px rgba(0,0,0,0.6)",
+        opacity: s,
+        transform: `translateY(${interpolate(s, [0, 1], [-24, 0])}px)`,
       }}
     >
       {segments.map((seg, i) => (

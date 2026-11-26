@@ -1,0 +1,163 @@
+{
+ "id": "c01",
+ "language": "en",
+ "duration": 10.71,
+ "text": "The only thing that you can do is win so big that all of them constantly compare themselves to you. And then you'll forget they exist. Success is the only advantage.",
+ "words": [
+  {
+   "text": "The",
+   "start": 0.0,
+   "end": 0.14
+  },
+  {
+   "text": "only",
+   "start": 0.14,
+   "end": 0.52
+  },
+  {
+   "text": "thing",
+   "start": 0.52,
+   "end": 0.78
+  },
+  {
+   "text": "that",
+   "start": 0.78,
+   "end": 0.94
+  },
+  {
+   "text": "you",
+   "start": 0.94,
+   "end": 1.06
+  },
+  {
+   "text": "can",
+   "start": 1.06,
+   "end": 1.22
+  },
+  {
+   "text": "do",
+   "start": 1.22,
+   "end": 1.44
+  },
+  {
+   "text": "is",
+   "start": 1.44,
+   "end": 1.74
+  },
+  {
+   "text": "win",
+   "start": 1.74,
+   "end": 2.0
+  },
+  {
+   "text": "so",
+   "start": 2.0,
+   "end": 2.4
+  },
+  {
+   "text": "big",
+   "start": 2.4,
+   "end": 2.72
+  },
+  {
+   "text": "that",
+   "start": 2.72,
+   "end": 3.12
+  },
+  {
+   "text": "all",
+   "start": 3.12,
+   "end": 3.34
+  },
+  {
+   "text": "of",
+   "start": 3.34,
+   "end": 3.46
+  },
+  {
+   "text": "them",
+   "start": 3.46,
+   "end": 3.6
+  },
+  {
+   "text": "constantly",
+   "start": 3.6,
+   "end": 4.16
+  },
+  {
+   "text": "compare",
+   "start": 4.16,
+   "end": 4.54
+  },
+  {
+   "text": "themselves",
+   "start": 4.54,
+   "end": 4.84
+  },
+  {
+   "text": "to",
+   "start": 4.84,
+   "end": 5.2
+  },
+  {
+   "text": "you.",
+   "start": 5.2,
+   "end": 5.38
+  },
+  {
+   "text": "And",
+   "start": 5.86,
+   "end": 6.0
+  },
+  {
+   "text": "then",
+   "start": 6.0,
+   "end": 6.12
+  },
+  {
+   "text": "you'll",
+   "start": 6.12,
+   "end": 6.32
+  },
+  {
+   "text": "forget",
+   "start": 6.32,
+   "end": 6.6
+  },
+  {
+   "text": "they",
+   "start": 6.6,
+   "end": 6.9
+  },
+  {
+   "text": "exist.",
+   "start": 6.9,
+   "end": 7.3
+  },
+  {
+   "text": "Success",
+   "start": 7.6,
+   "end": 7.86
+  },
+  {
+   "text": "is",
+   "start": 7.86,
+   "end": 8.18
+  },
+  {
+   "text": "the",
+   "start": 8.18,
+   "end": 8.34
+  },
+  {
+   "text": "only",
+   "start": 8.34,
+   "end": 8.68
+  },
+  {
+   "text": "advantage.",
+   "start": 8.68,
+   "end": 9.0
+  }
+ ]
+}

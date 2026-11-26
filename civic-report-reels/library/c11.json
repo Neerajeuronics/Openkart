@@ -1,0 +1,78 @@
+{
+ "id": "c11",
+ "language": "en",
+ "duration": 12.1,
+ "text": "Good salespeople sell features, great salespeople sell outcomes, and really great salespeople sell feelings.",
+ "words": [
+  {
+   "text": "Good",
+   "start": 0.0,
+   "end": 0.28
+  },
+  {
+   "text": "salespeople",
+   "start": 0.28,
+   "end": 0.88
+  },
+  {
+   "text": "sell",
+   "start": 0.88,
+   "end": 1.26
+  },
+  {
+   "text": "features,",
+   "start": 1.26,
+   "end": 2.04
+  },
+  {
+   "text": "great",
+   "start": 2.68,
+   "end": 3.06
+  },
+  {
+   "text": "salespeople",
+   "start": 3.06,
+   "end": 3.62
+  },
+  {
+   "text": "sell",
+   "start": 3.62,
+   "end": 4.06
+  },
+  {
+   "text": "outcomes,",
+   "start": 4.06,
+   "end": 4.76
+  },
+  {
+   "text": "and",
+   "start": 4.94,
+   "end": 6.7
+  },
+  {
+   "text": "really",
+   "start": 6.7,
+   "end": 7.96
+  },
+  {
+   "text": "great",
+   "start": 7.96,
+   "end": 8.32
+  },
+  {
+   "text": "salespeople",
+   "start": 8.32,
+   "end": 9.04
+  },
+  {
+   "text": "sell",
+   "start": 9.04,
+   "end": 9.52
+  },
+  {
+   "text": "feelings.",
+   "start": 9.52,
+   "end": 10.0
+  }
+ ]
+}
